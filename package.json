@@ -12,7 +12,8 @@
   "dependencies": {
     "crypto-js": "^4.2.0",
     "express": "^5.1.0",
-    "import-export": "^1.0.1"
+    "import-export": "^1.0.1",
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "dotenv": "^16.5.0",
